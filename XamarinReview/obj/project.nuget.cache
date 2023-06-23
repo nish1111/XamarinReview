@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "yj2Etbl4sZZVgXZ753KJ1JD2xUYdMG1RMJNs4XZmCReo50u4xiVC3uf+6B1b34zUmKzx/JtIAXJndN1D7CjwQg==",
+  "dgSpecHash": "BWRAdp6DQzghqUvVa7TUJYT2pyFQmDhgTD9A3hMueuv7Rcx+4mZJSKKOIABrxy6w4SnLe8GkB0dY7NO7V8ydAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nishka\\source\\repos\\XamarinReview\\XamarinReview\\XamarinReview.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nishka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Nishka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Nishka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Nishka\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Nishka\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Nishka\\.nuget\\packages\\xamarin.essentials\\1.7.6\\xamarin.essentials.1.7.6.nupkg.sha512",
+    "C:\\Users\\Nishka\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
   ],
   "logs": []
 }
